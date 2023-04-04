@@ -1,5 +1,5 @@
 ### Hey all 👋
-This is Bhushan, a Jr.Data scientist in Python,  python developer. An Undergraduate Student as well.
+This is Sreeram, a Jr.Data scientist in Python,  python developer. An Undergraduate Student as well.
 
 I'm an Enthusiastic ✨Machine-learning Engineer & Data-Scientist✨
 
