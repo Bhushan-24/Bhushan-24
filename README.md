@@ -3,7 +3,7 @@ This is Sreeram, a Jr.Data scientist in Python,  python developer. An Undergradu
 
 I'm an Enthusiastic ✨Machine-learning Engineer & Data-Scientist✨
 
-- 🔭 I’m currently working on Junior Data Scientist IN IBM
+- 🔭 I’m previously working  on Junior Data Scientist IN Sri Vensy Technologies PVT.LTD 
 - 🌱 I’m currently learning python, full stack Data science
 - 👯 I’m looking to collaborate on  Open source projects, Machine-Learning & Data Science Projects.
 ♥️ Python and Machine-Learning
